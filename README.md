@@ -22,7 +22,7 @@ This is a **mobile-responsive, functional frontend demo** of **Artistly.com**, a
 
 ## 🌍 Live Demo
 
-🟢 **Deployed on Vercel:** [https://artistly.vercel.app](https://artistly.vercel.app)  
+🟢 **Deployed on Vercel:** [https://artistly.vercel.app](https://artistly-orcin.vercel.app/)  
 📝 Temporary Login (for reviewers):  
 - Email: `your-email@gmail.com`  
 - Password: `your-password`
